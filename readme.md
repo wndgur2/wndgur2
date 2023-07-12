@@ -47,4 +47,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white">
 </p> -->
+<div position="absolute">
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)
+</div>
