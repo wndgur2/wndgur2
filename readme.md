@@ -2,11 +2,9 @@
 ### 한경대학교 컴퓨터공학과 2018 ~  
 
 <br/>
-<br/>
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)
 
-<br/>
 <br/>
 
 # 🔥 ongoing
