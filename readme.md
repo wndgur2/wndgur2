@@ -8,6 +8,8 @@
   <img src= "[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)" />
 </dir>
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)
+
 
 # 🔥 ongoing
 - [알고리즘](https://github.com/leejunghyeokWN/study_algorithm)
