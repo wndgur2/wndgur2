@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Junghyeok%20Lee&fontSize=70&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Junghyeok%20Lee&fontSize=70)
 
 <!-- <h3 align="center">⚡ Tech ⚡ </h3>
 
