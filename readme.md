@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Junghyeok%20Lee&fontSize=42&fontAlign=24)
-<dir>
+<style>
+  .middle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
+<dir class="middle">
   <p>
     이중혁<br>
     1999.11.8~<br>
@@ -7,8 +14,6 @@
   </p>
   <img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2"/>
 </dir>
-
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)
 
 # 🔥 ongoing
 - [알고리즘](https://github.com/leejunghyeokWN/study_algorithm)
