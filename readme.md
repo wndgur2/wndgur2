@@ -5,7 +5,7 @@
     1999.11.8~<br>
     한경대학교 컴퓨터공학과<br>
   </p>
-  <img src= "[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)" />
+  <img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2"/>
 </dir>
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)
