@@ -7,5 +7,5 @@
 
 
 # 🔥 ongoing
-- [알고리즘](https://github.com/leejunghyeokWN/study_algorithm)
+- 🧠 [알고리즘](https://github.com/leejunghyeokWN/study_algorithm)
 - 🕸️ Web Documentation: 포트폴리오 페이지 (기획 단계 🐣)
