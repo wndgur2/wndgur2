@@ -1,12 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Junghyeok%20Lee&fontSize=42&fontAlign=24)
-<style>
-  .middle{
-    display: flex;
+<dir style="display: flex;
     justify-content: center;
-    align-items: center;
-  }
-</style>
-<dir class="middle">
+    align-items: center;">
   <p>
     이중혁<br>
     1999.11.8~<br>
