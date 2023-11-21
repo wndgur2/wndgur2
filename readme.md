@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Junghyeok%20Lee&fontSize=40&fontAlign=30)
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)
 
 > 이중혁  
 > 1999.11.8~  
