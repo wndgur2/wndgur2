@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Junghyeok%20Lee&fontSize=42&fontAlign=10)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Junghyeok%20Lee&fontSize=42&fontAlign=16)
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)
 
 ### 이중혁  
