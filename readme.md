@@ -11,4 +11,4 @@
 - 🐱 [고양이 체스](https://github.com/wndgur2/CatChess)
 
 # 📝 todo (idea)
-- 🕸️ Web Documentation: 포트폴리오 페이지 (보류중)
+- 🕸️ Web Documentation: 포트폴리오 페이지
