@@ -3,9 +3,7 @@
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)
 
-<br/>
-
-# 프로젝트들
+## 프로젝트들 Projects
 
 - 🐱 [고양이 체스 Cat Chess](https://github.com/wndgur2/CatChess)
 - 🧀 [치즈 한장 Cheese](https://github.com/wndgur2/cheese)
