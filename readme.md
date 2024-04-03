@@ -11,5 +11,5 @@
 - 📝 [메모허브 MemoHub](https://github.com/wndgur2/memohub) : 세상에서 가장 자유로운 메모장
 
 
-## ongoing
+## 진행중인 ongoing
 - 🙋🏻‍♂️ [이중혁 leejunghyeok](https://github.com/wndgur2/leejunghyeok) : 자기소개 페이지
