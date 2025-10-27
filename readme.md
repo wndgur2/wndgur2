@@ -3,6 +3,10 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2)
+
+## 포트폴리오 Portfolio
+[https://leejunghyeok.notion.site/293ae68f40c680ac8b61e5fbdb2cc899?source=copy_link](https://leejunghyeok.notion.site/293ae68f40c680ac8b61e5fbdb2cc899?source=copy_link)
+
 ## 프로젝트들 Projects
 
 - 🦸🏻 [이중혁 wndgur2.github.io](https://github.com/wndgur2/wndgur2.github.io) : Github 연동 개인 블로그
