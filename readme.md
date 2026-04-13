@@ -3,3 +3,5 @@
 - 삼성청년SW·AI아카데미 12기 이수
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2/)
+
+[!tier](https://img.shields.io/badge/BOJ-P_4-bright_blue]
