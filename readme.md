@@ -2,6 +2,4 @@
 - 한경대학교 컴퓨터공학 전공 HKNU Computer engineering 2018 ~ 2024
 - 삼성청년SW·AI아카데미 12기 이수
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2/)
-
 ![tier](https://img.shields.io/badge/BOJ-PLATINUM4-1fe2f0)
