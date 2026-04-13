@@ -4,4 +4,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndgur2)](https://solved.ac/wndgur2/)
 
-![tier](https://img.shields.io/badge/BOJ-P_4-bright_blue]
+[!tier](https://img.shields.io/badge/BOJ-P_4-bright_blue)
